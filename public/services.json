@@ -1,0 +1,50 @@
+[
+  {
+    "id": "001",
+    "name": "Change Tire",
+    "price": 5000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, ducimus, provident perspiciatis soluta, repudiandae recusandae eligendi quasi ea optio inventore ab fugit rem maiores mollitia nam tenetur tempora! Veritatis, iure.",
+    "time": 1,
+    "img": "https://i.ibb.co/HdZBXKK/img-1.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Car wash",
+    "price": 200,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, ducimus, provident perspiciatis soluta, repudiandae recusandae eligendi quasi ea optio inventore ab fugit rem maiores mollitia nam tenetur tempora! Veritatis, iure.",
+    "time": 3,
+    "img": "https://i.ibb.co/w4KwXF4/img-2.jpg"
+  },
+  {
+    "id": "003",
+    "name": "Engin repair",
+    "price": 8000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, ducimus, provident perspiciatis soluta, repudiandae recusandae eligendi quasi ea optio inventore ab fugit rem maiores mollitia nam tenetur tempora! Veritatis, iure.",
+    "time": 5,
+    "img": "https://i.ibb.co/G2JyzHD/img-3.jpg"
+  },
+  {
+    "id": "004",
+    "name": "Body colored",
+    "price": 5000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, ducimus, provident perspiciatis soluta, repudiandae recusandae eligendi quasi ea optio inventore ab fugit rem maiores mollitia nam tenetur tempora! Veritatis, iure.",
+    "time": 9,
+    "img": "https://i.ibb.co/FBDyFw8/img-4.jpg"
+  },
+  {
+    "id": "005",
+    "name": "Replace tire",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, ducimus, provident perspiciatis soluta, repudiandae recusandae eligendi quasi ea optio inventore ab fugit rem maiores mollitia nam tenetur tempora! Veritatis, iure.",
+    "time": 2,
+    "img": "https://i.ibb.co/sJMGvY4/img-5.jpg"
+  },
+  {
+    "id": "006",
+    "name": "Fuel load",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, ducimus, provident perspiciatis soluta, repudiandae recusandae eligendi quasi ea optio inventore ab fugit rem maiores mollitia nam tenetur tempora! Veritatis, iure.",
+    "time": 1,
+    "img": "https://i.ibb.co/pJPBsjf/img-6.jpg"
+  }
+]
