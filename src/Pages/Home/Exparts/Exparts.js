@@ -31,7 +31,7 @@ const exparts = [
 ];
 const Exparts = () => {
   return (
-    <Container>
+    <Container id="exparts">
       <h2 className="text-primary mt-5">Our Exparts</h2>
       <Row>
         {exparts.map((expart) => (
