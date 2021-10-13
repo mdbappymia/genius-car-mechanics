@@ -34,7 +34,10 @@ const Header = () => {
           {user.displayName ? (
             <>
               <Navbar.Text>
-                Signed in as: <a href="#login">{user.displayName}</a>
+                Signed in as:{" "}
+                <small className="fw-bold text-warning">
+                  {user.displayName}
+                </small>
               </Navbar.Text>
               <Button onClick={logOut} className="ms-3" variant="danger">
                 Logout
